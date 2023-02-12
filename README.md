@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Egnoel&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Entry Level Web Developer focusing on mern stack 
+- 🔥 Web Developer focusing on mern stack 
 
 - 🔭 I’m available for work
 
