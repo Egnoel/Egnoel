@@ -3,8 +3,6 @@
 
 <h1 align="left">Hi, I'm Egnoel Neto</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Egnoel&color=yellow" alt="Profile views" /> </p>
-
 - 🔥 Web Developer
 
 - 🔭 I’m available for work
@@ -45,7 +43,7 @@
 <a href="https://dev.to/egnoel" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Egnoel-05122A?style=flat&logo=dev.to" alt="dev.to"/>
 </a>
-<a href="https://twitter.com/Egnoel_Neto" target="_blank">
+<a href="[https://twitter.com/Egnoel_Neto](https://twitter.com/egnoelgenio)" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Egnoel-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://www.linkedin.com/in/egnoel-neto/" target="_blank">
