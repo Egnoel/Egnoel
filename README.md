@@ -1,6 +1,3 @@
-<img align="right" height="590em" 
-     src="https://raw.githubusercontent.com/gist/Egnoel/df9dd7a3e913f9ddea4ea209bbb31280/raw/c742a08802d50fe1626a86fd5b94ecd72bddd2e4/githubcard.svg" />
-
 <h1 align="left">Hi, I'm Egnoel Neto</h1>
 
 - 🔥 Web Developer
