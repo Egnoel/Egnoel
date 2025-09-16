@@ -8,13 +8,13 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![Python](https://img.icons8.com/?size=100&id=undefined&format=png&color=000000)&nbsp;
+![Python](https://img.icons8.com/?size=100&id=12592&format=png&color=000000)&nbsp;
 ![SQL](https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000)&nbsp;
 ![ETL](https://img.icons8.com/?size=100&id=XnaFYq2CF3iS&format=png&color=000000)&nbsp;
 ![Pandas](https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000)&nbsp;
-![Git](https://img.icons8.com/?size=100&id=undefined&format=png&color=000000)&nbsp;
+![Git](https://img.icons8.com/?size=100&id=38389&format=png&color=000000)&nbsp;
 ![GitHub](https://img.icons8.com/?size=100&id=12599&format=png&color=000000)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![SSMS](https://upload.wikimedia.org/wikipedia/en/b/bc/MSSQL_SSMS_21_icon.png)&nbsp;
 
 
 <br><br>
