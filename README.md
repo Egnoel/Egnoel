@@ -8,12 +8,12 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![Python](https://icons8.com/icon/13441/python)&nbsp;
+![Python](https://img.icons8.com/?size=100&id=undefined&format=png&color=000000)&nbsp;
 ![SQL](https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000)&nbsp;
 ![ETL](https://img.icons8.com/?size=100&id=XnaFYq2CF3iS&format=png&color=000000)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Pandas](https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000)&nbsp;
+![Git](https://img.icons8.com/?size=100&id=undefined&format=png&color=000000)&nbsp;
+![GitHub](https://img.icons8.com/?size=100&id=12599&format=png&color=000000)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
