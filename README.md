@@ -1,27 +1,21 @@
 <h1 align="left">Hi, I'm Egnoel Neto</h1>
 
-- 🔥 Web Developer
+- 🔥 Data Engineer
 
 - 🔭 I’m available for work
-
-- 💬 Ask me about **JavaScript, TypeScript, HTML, CSS, Mongo, Node.JS, React**
-
-- ⚡ Fun fact **Otaku Nerd 😉**
 
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Python](https://icons8.com/icon/13441/python)&nbsp;
+![SQL](https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000)&nbsp;
+![ETL](https://img.icons8.com/?size=100&id=XnaFYq2CF3iS&format=png&color=000000)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+
 
 <br><br>
 
