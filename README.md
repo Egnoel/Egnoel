@@ -8,11 +8,11 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![Python](https://img.icons8.com/?size=100&id=12592&format=png&color=000000)&nbsp;
+![Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000)&nbsp;
 ![SQL](https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000)&nbsp;
 ![ETL](https://img.icons8.com/?size=100&id=XnaFYq2CF3iS&format=png&color=000000)&nbsp;
 ![Pandas](https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000)&nbsp;
-![Git](https://img.icons8.com/?size=100&id=38389&format=png&color=000000)&nbsp;
+![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)&nbsp;
 ![GitHub](https://img.icons8.com/?size=100&id=12599&format=png&color=000000)&nbsp;
 
 
