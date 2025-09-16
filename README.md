@@ -14,7 +14,6 @@
 ![Pandas](https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000)&nbsp;
 ![Git](https://img.icons8.com/?size=100&id=38389&format=png&color=000000)&nbsp;
 ![GitHub](https://img.icons8.com/?size=100&id=12599&format=png&color=000000)&nbsp;
-![SSMS](https://upload.wikimedia.org/wikipedia/en/b/bc/MSSQL_SSMS_21_icon.png)&nbsp;
 
 
 <br><br>
